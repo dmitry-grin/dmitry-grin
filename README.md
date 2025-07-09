@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 🧘 Currently Focusing
+
+[![Focus Status](https://img.shields.io/badge/dynamic/json?color=green&label=Focus&query=message&url=https://86bc5f603525.ngrok-free.app/status.json)](https://86bc5f603525.ngrok-free.app)
+
+Using **Committed** to stay in deep work mode and let others know I'm focused.
+
+
 <!--
 **dmitry-grin/dmitry-grin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
